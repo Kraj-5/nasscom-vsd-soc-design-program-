@@ -295,6 +295,8 @@ another possibility is that the wire delays are high (two buffers or inverters a
 ![IMG-20240507-WA0004](https://github.com/Kraj-5/nasscom-vsd-soc-design-program-/assets/155510184/1f1625e8-8db0-4c5d-9139-80703a0bc4c4)
 ![IMG-20240507-WA0005](https://github.com/Kraj-5/nasscom-vsd-soc-design-program-/assets/155510184/d88fb7fa-40c3-441a-9440-fb11b860705e)
 ![IMG-20240507-WA0006](https://github.com/Kraj-5/nasscom-vsd-soc-design-program-/assets/155510184/112e7e48-6576-4c5d-bb1b-bbba86c6a50a)
+Clock gating technique:
+gating the clock to go to the rest of the circuit under certain condition.
 #### DAY -5
 ![Screenshot (400)](https://github.com/Kraj-5/nasscom-vsd-soc-design-program-/assets/155510184/6fd273ff-1741-442d-94ef-173dccadfe45)
 ![Uploading Screenshot (401).png…]()
